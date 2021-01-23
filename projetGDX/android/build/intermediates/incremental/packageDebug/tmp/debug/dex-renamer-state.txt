@@ -1,0 +1,4 @@
+#Tue Dec 29 16:34:34 CET 2020
+base.0=/home/nicolas/Documents/cours/licence/dev_mobile/projetGDX/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

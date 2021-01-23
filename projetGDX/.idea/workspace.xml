@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="test" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2992e885-5dbc-4e8a-989e-fb79fc22794e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/core/src/com/mygdx/game/EcranJeu.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/mygdx/game/EcranJeu.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="8BNDU17A28008225" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k6PfCrVexec7LOx32NzOzK6L7K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="8BNDU17A28008225" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-17T15:32:25.552Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baudon-nicolas-projet" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/assets/fonts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.android">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desktop" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.mygdx.game.desktop.DesktopLauncher" />
+      <module name="desktop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/android/assets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.android" />
+      <item itemvalue="Application.Desktop" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2992e885-5dbc-4e8a-989e-fb79fc22794e" name="Default Changelist" comment="" />
+      <created>1605018168714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605018168714</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Creation projet libGDX.">
+      <created>1605018270655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605018270655</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creation des classe Screen pour chaque ecran : EcranIntro, EcranMenu, EcranJeu">
+      <created>1605629488389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605629488389</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Rectangle class">
+      <created>1606834242418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606834242419</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add quit button">
+      <created>1606834445015</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606834445015</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ajout world et body pour le joueur">
+      <created>1606842825817</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606842825817</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ajout terrain et classe Joueur">
+      <created>1608050175494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608050175494</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Correction camera">
+      <created>1608728314965</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608728314965</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Correction affichage sur mobile">
+      <created>1608730532553</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608730532553</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ajout control tactil et souris plus textures">
+      <created>1608822535851</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608822535851</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ajout controle avec le pad">
+      <created>1608832929094</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608832929094</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Correction bug sprites joueurs">
+      <created>1608908162772</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608908162772</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ajout controles clavier seconde joueur avec modification classe Ecouteur">
+      <created>1608918988272</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608918988272</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ajout controle pad second jour">
+      <created>1608925711034</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608925711034</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Ajout premiere cage enfin ...">
+      <created>1609015635035</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609015635035</updated>
+    </task>
+    <task id="LOCAL-00015" summary="second buts + compter les points">
+      <created>1609074688056</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609074688056</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ajout compteur de buts">
+      <created>1609084169658</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609084169658</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Ajout minuteur de partie">
+      <created>1609148930220</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609148930220</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Affichage victoire">
+      <created>1609156174829</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1609156174829</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Ajout sons">
+      <created>1609167086328</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1609167086333</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Ajout bt retour menu et classe Bot pour mode a un joueur">
+      <created>1609240594364</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1609240594364</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creation projet libGDX." />
+    <MESSAGE value="Creation des classe Screen pour chaque ecran : EcranIntro, EcranMenu, EcranJeu" />
+    <MESSAGE value="add Rectangle class" />
+    <MESSAGE value="add quit button" />
+    <MESSAGE value="ajout world et body pour le joueur" />
+    <MESSAGE value="Ajout terrain et classe Joueur" />
+    <MESSAGE value="Correction camera" />
+    <MESSAGE value="Correction affichage sur mobile" />
+    <MESSAGE value="Ajout control tactil et souris plus textures" />
+    <MESSAGE value="Ajout controle avec le pad" />
+    <MESSAGE value="Correction bug sprites joueurs" />
+    <MESSAGE value="Ajout controles clavier seconde joueur avec modification classe Ecouteur" />
+    <MESSAGE value="Ajout controle pad second jour" />
+    <MESSAGE value="Ajout premiere cage enfin ..." />
+    <MESSAGE value="second buts + compter les points" />
+    <MESSAGE value="ajout compteur de buts" />
+    <MESSAGE value="Ajout minuteur de partie" />
+    <MESSAGE value="Affichage victoire" />
+    <MESSAGE value="Ajout sons" />
+    <MESSAGE value="Ajout bt retour menu et classe Bot pour mode a un joueur" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout bt retour menu et classe Bot pour mode a un joueur" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2493" y="95" width="771" height="863" key="#android" timestamp="1608724027171">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2493" y="95" width="771" height="863" key="#android/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1608724027171" />
+    <state x="2335" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605018941517">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2335" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1605018941517" />
+    <state x="2532" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609081181975">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2532" y="305" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609081181975" />
+    <state x="2642" y="165" width="476" height="717" key="#com.intellij.ide.util.MemberChooser" timestamp="1609163701326">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2642" y="165" width="476" height="717" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609163701326" />
+    <state x="2547" y="262" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605018907160">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2547" y="262" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1605018907160" />
+    <state x="2561" y="243" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608037348446">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2561" y="243" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1608037348446" />
+    <state x="2419" y="0" width="987" height="1016" key="CommitChangelistDialog2" timestamp="1609240594174">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2419" y="0" width="987" height="1016" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609240594174" />
+    <state x="2585" y="204" width="590" height="641" key="FileChooserDialogImpl" timestamp="1609259947367">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2585" y="204" width="590" height="641" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609259947367" />
+    <state width="1860" height="277" key="GridCell.Tab.0.bottom" timestamp="1609256075053">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="277" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609256075053" />
+    <state width="1860" height="277" key="GridCell.Tab.0.center" timestamp="1609256075053">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="277" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609256075053" />
+    <state width="1860" height="277" key="GridCell.Tab.0.left" timestamp="1609256075053">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="277" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609256075053" />
+    <state width="1860" height="277" key="GridCell.Tab.0.right" timestamp="1609256075053">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="277" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609256075053" />
+    <state width="1860" height="320" key="GridCell.Tab.1.bottom" timestamp="1609168249074">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="320" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609168249074" />
+    <state width="1860" height="320" key="GridCell.Tab.1.center" timestamp="1609168249074">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="320" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609168249074" />
+    <state width="1860" height="320" key="GridCell.Tab.1.left" timestamp="1609168249074">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="320" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609168249074" />
+    <state width="1860" height="320" key="GridCell.Tab.1.right" timestamp="1609168249074">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="320" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609168249074" />
+    <state width="623" height="501" key="SwitcherDM" timestamp="1608990156177">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="623" height="501" key="SwitcherDM/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1608990156177" />
+    <state x="2376" y="194" key="Vcs.Push.Dialog.v2" timestamp="1609240596936">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2376" y="194" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609240596936" />
+    <state x="2604" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609148914384">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2604" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609148914384" />
+    <state x="2456" y="234" key="run.anything.popup" timestamp="1609065546173">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2456" y="234" key="run.anything.popup/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1609065546173" />
+    <state x="2459" y="8" width="840" height="1034" key="search.everywhere.popup" timestamp="1608995389621">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2459" y="8" width="840" height="1034" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1608995389621" />
+  </component>
+</project>
